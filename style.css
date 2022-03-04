@@ -332,6 +332,9 @@ section .title::after{
 .skills-content .right .php::before{
     width: 70%;
 }
+.skills-content .right .mernstack::before{
+  width: 70%;
+}
 .skills-content .right .mysql::before{
     width: 70%;
 }
